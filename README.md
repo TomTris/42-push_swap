@@ -32,6 +32,7 @@ Then i compare them, choose the smaller, and keep doing that untill cnt_check st
 Then, at the end, i have data and number of movements of the case that needs least steps. Then i print it out. when i print it out, i use ft_write_rules that will print rules when they sort.
 Actually, we only need to print, don't need to sort again, so u guys can remove something if u wanna.
 
+Bonus part: Reproduce checker.
 -Tom-
 
 Score: 125/125

@@ -33,3 +33,5 @@ Then, at the end, i have data and number of movements of the case that needs lea
 Actually, we only need to print, don't need to sort again, so u guys can remove something if u wanna.
 
 -Tom-
+
+Score: 125/125

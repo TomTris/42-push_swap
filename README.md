@@ -1,4 +1,4 @@
-# Tom_Push_swap
+# 42-Push_swap
 Push_swap
 
 We have a stack of x unsorted numbers and an empty stack.

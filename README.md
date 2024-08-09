@@ -1,6 +1,17 @@
 # Tom_Push_swap
 Push_swap
 
+We have a stack of x unsorted numbers and an empty stack.
+Our job: sort it using only these 2 stack with:
+sa: swap 2 first elements in stack a
+sb: swap 2 first elemens in stack b
+pa: push first element in a to b
+pb: push first element in b to a
+ra: rotate elements in stack a by 1, first element will be last element.
+rb: rotate elements in stack b by 1, first element will be last element.
+rra: rotate reverse in stack a by 1: last element will be first element.
+rrb: rotate reverse in stack b by 1: last element will be first element.
+
 This is the version that is a little bit ... bastard. It contains 2 smaller version.
 
 Version 1: stack a unsorted. I start to sort them in stack b

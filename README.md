@@ -1,5 +1,10 @@
 # 42-Push_swap
-Push_swap - First Algorithm project in Core Curriculum
+Push_swap - First Algorithm project in Core Curriculum.
+How to check if it sort correctly?
+- chmod 777 checker_Mac
+- ./push_swap $ARG | ./checker_Mac $ARG
+  or
+- ./push_swap $ARG | ./checker_linix $ARG
 
 We have a stack of x unsorted numbers and an empty stack.
 Our job: sort it using only these 2 stack with:
